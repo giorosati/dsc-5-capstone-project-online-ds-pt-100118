@@ -9,6 +9,8 @@ Weather data was obtained from:
 - U.S. National Oceanic and Atmospheric Administration
 - Dark Sky API*
 
+Jupyter notebook: dengue_fever_final.ipynb
+
 Giovanni Rosati
 giovanni.rosati@gmail.com
 
